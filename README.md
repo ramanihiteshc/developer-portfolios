@@ -325,7 +325,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Qudusayo A](https://mequdusayo.netlify.app)
 
 ## R
-
+- [Ramani Hitesh](https://ramanihiteshc.github.io/)
 - [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
